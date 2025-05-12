@@ -13,7 +13,7 @@ A user-friendly Electron app to boost Windows performance by adjusting power pla
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/<your-username>/windows-system-optimizer.git
+   git clone windows-system-optimizer.git
    ```
 2. Change directory:
    ```bash
